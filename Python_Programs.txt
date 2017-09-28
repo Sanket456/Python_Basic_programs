@@ -1,0 +1,90 @@
+﻿Q1. Write a program to calculate the Average of Numbers in a Given List
+
+Problem Solution
+1.	Take the number of elements to be stored in the list as input.
+2.	Use a for loop to input elements into the list.
+3.	Calculate the total sum of elements in the list.
+4.	Divide the sum by total number of elements in the list.
+5.	Exit
+
+Q2. Write a program to reverse a given number
+
+Problem Solution
+1.	Take the value of the integer and store in a variable.
+2.	Using a while loop, get each digit of the number and store the reversed number in another variable.
+3.	Print the reverse of the number.
+4.	Exit.
+
+Q3. Write a Python Program to print all integers that aren’t divisible by either 2 or 3 and lies between 1 and 50.
+
+Problem Solution
+1.	Use a for-loop ranging from 0 to 51.
+2.	Then use an if statement to check if the number isn’t divisible by both 2 and 3.
+3.	Print the numbers satisfying the condition.
+4.	Exit.
+
+Q4. Write a Python Program to Put Even and Odd elements in a given List into Two Different Lists
+
+Problem Solution
+1.	Take in the number of elements and store it in a variable.
+2.	Take in the elements of the list one by one.
+3.	Use a for loop to traverse through the elements of the list and an if statement to check if the element is even or odd.
+4.	If the element is even, append it to a separate list and if it is odd, append it to a different one.
+5. Display the elements in both the lists.
+6.	Exit.
+
+Q5 Write a Python Program to Read a List of Words and Return the Length of the Longest One 
+
+Problem Solution
+1. Take the number of elements in the list and store it in a variable.
+2. Accept the values into the list using a for loop and insert them into the list.
+3. First assume that the first element is the word with the longest length.
+4. Then using a for loop and if statement, compare the lengths of the words in the list with the first element.
+5. Store the name of the word with the longest length in a temporary variable.
+6. Display the word with the longest length
+7. Exit.
+
+Q6. Write a Python Program to Count the Number of Vowels in a String
+
+Problem Solution
+1. Take a string from the user and store it in a variable.
+2. Initialize a count variable to 0.
+3. Use a for loop to traverse through the characters in the string.
+4. Use an if statement to check if the character is a vowel or not and increment the count variable if it is a vowel.
+5. Print the total number of vowels in the string.
+6. Exit.
+
+Q7. Write a Python Program to Calculate the Number of Upper Case Letters and Lower Case Letters in a String
+
+Problem Solution
+1. Take a string from the user and store it in a variable.
+2. Initialize the two count variables to 0.
+3. Use a for loop to traverse through the characters in the string and increment the first count variable each time a lowercase character is encountered and increment the second count variable each time a uppercase character is encountered.
+4. Print the total count of both the variables.
+5. Exit.
+
+Q8. Write a Python Program to Check if a Substring is Present in a Given String
+
+Problem Solution
+1. Take a string and a substring from the user and store it in separate variables.
+2. Check if the substring is present in the string using find() in-built function.
+3. Print the final result.
+4. Exit.
+
+Q9. Write a Python Program to Check if a Given Key Exists in a Dictionary or Not
+
+Problem Solution
+1. Declare and initialize a dictionary to have some key-value pairs.
+2. Take a key from the user and store it in a variable.
+3. Using an if statement and the in operator, check if the key is present in the dictionary using the dictionary.keys() method.
+4. If it is present, print the value of the key.
+5. If it isn’t present, display that the key isn’t present in the dictionary.
+6. Exit.
+
+Q10. Write a Python Program to Sum All the Items in a Dictionary
+
+Problem Solution
+1. Declare and initialize a dictionary to have some key-value pairs.
+2. Find the sum of all the values in the dictionary.
+3. Print the total sum.
+4. Exit.
